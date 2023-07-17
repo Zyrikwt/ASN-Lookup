@@ -12,7 +12,7 @@ The script will prompt you to enter one or more ASN numbers. You can enter up to
 
 ## Example
 Here is an example of how to use the script:
-- python asn_lookup.py AS1234 AS5678 AS9012
+- python asn_lookup.py AS1234,AS5678,AS9012
 - python asn_lookup.py
 
 This will run the script and generate a file named ip_ranges.lst that contains the subnets associated with the ASN numbers 1234, 5678, and 9012.
