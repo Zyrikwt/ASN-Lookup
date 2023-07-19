@@ -22,6 +22,7 @@ This will run the script and generate a file named ip_ranges.lst that contains t
 Python 3.6+
 
 requests Python package
+tqdm Python package
 
 ## Author
 This script was created by Zyrik.
